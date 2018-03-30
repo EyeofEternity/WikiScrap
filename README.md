@@ -1,4 +1,4 @@
-# Wikipedia Data Scrapping
+# Wikipedia Data Scraping
 
 Just a small project of webscrapping using python for **ES112 : Computing**. Probably very naive. Feel free to contribute.
 
