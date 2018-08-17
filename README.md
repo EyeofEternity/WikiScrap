@@ -1,4 +1,7 @@
 # Wikipedia Data Scraping
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/141426a2941d48f5ad4057bbc3c6e88c)](https://app.codacy.com/app/bridgesign/WikiScrap?utm_source=github.com&utm_medium=referral&utm_content=bridgesign/WikiScrap&utm_campaign=badger)
+
 Just a small project of webscraping using python for <b>ES112 : Computing.</b> Probably very naive. Feel free to contribute.
 <br><br>The first, incidents.py finds the aviation incidents in the year given year. The second (fatality.py), takes two inputs. First Input tells the number of top n most fatal incidents that occured. Second gives the incdents that occured in the last y years where y is input.
 <br><br>The data required to be loaded in second file takes about an hour. So, a copy of the data is given in temp.txt. Delete it to redownload the data. The data download is kept slow so as not to load the wikipedia servers.
